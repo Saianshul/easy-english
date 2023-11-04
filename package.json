@@ -1,0 +1,47 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "expo": "~48.0.21",
+    "expo-status-bar": "~1.4.4",
+    "react": "18.2.0",
+    "react-native": "0.71.14",
+    "axios": "^0.19.2",
+    "expo-av": "~13.2.1",
+    "firebase": "8.2.3",
+    "lottie-ios": "3.1.8",
+    "prop-types": "^15.5.0",
+    "expo-speech": "~11.1.1",
+    "@firebase/app": "0.x.0",
+    "expo-permissions": "~14.1.1",
+    "react-navigation": "^4.3.7",
+    "expo-image-picker": "~14.1.1",
+    "@expo/vector-icons": "^13.0.0",
+    "@firebase/app-types": "0.x.0",
+    "@firebase/firestore": "*",
+    "lottie-react-native": "5.1.4",
+    "react-native-screens": "~3.20.0",
+    "react-native-elements": "2.2.1",
+    "react-navigation-tabs": "^2.8.11",
+    "react-navigation-stack": "^2.3.11",
+    "react-native-reanimated": "~2.14.4",
+    "react-navigation-drawer": "^2.4.11",
+    "@react-navigation/native": "^3.8.4",
+    "react-native-google-books": "^1.0.4",
+    "react-native-image-picker": "^2.3.1",
+    "react-native-gesture-handler": "~2.9.0",
+    "react-native-swipe-list-view": "^3.2.5",
+    "react-native-safe-area-context": "4.5.0",
+    "react-native-responsive-fontsize": "^0.4.3",
+    "@react-native-community/masked-view": "0.1.10"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
+}
